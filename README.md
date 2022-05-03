@@ -5,3 +5,5 @@ Vislice so preprosta igra, kjer mora igralec uganiti besedo, ki si ji izmisli ra
 ## Avtorji
 
 * Tian Lipovsek
+* Nekdo drug
+* še nekdo 
